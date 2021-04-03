@@ -1,0 +1,24 @@
+directories:
+  output: dist
+  buildResources: build
+appId: desktop-center-notify-qiita
+files:
+  - filter:
+      - package.json
+      - package-lock.json
+      - build/main.js
+      - build/index.js
+      - build/index.html
+      - build/preload.js
+      - build/src/img/cross.png
+      - build/src/img/max.png
+      - build/src/img/mini.png
+win:
+  target: nsis
+  icon: qiita.ico
+nsis:
+  installerIcon: qiita.ico
+  installerHeaderIcon: qiita.ico
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+electronVersion: 12.0.1

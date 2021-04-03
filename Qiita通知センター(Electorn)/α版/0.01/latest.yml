@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: qiita-notify-center-Setup-1.0.0.exe
+    sha512: WQ80QS00wHZWVhbPrHOCC5b9I9pNkGOPVgD0T+0WqnVZr7owF/Y5TPU+I7qJwzXeTpc2Q1iyOVzfwGXfAf2HsA==
+    size: 72756302
+path: qiita-notify-center-Setup-1.0.0.exe
+sha512: WQ80QS00wHZWVhbPrHOCC5b9I9pNkGOPVgD0T+0WqnVZr7owF/Y5TPU+I7qJwzXeTpc2Q1iyOVzfwGXfAf2HsA==
+releaseDate: '2021-04-03T10:37:22.132Z'
